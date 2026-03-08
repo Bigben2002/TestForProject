@@ -197,11 +197,6 @@ Node.js는 다음 역할을 한다.
 - macOS 개발 환경과 잘 맞음
 - 경로가 깔끔함
 
-### 예시 명령
-
-```bash
-brew upgrade node
-```
 
 ## 9. VS Code 개발 환경
 
