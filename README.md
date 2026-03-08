@@ -201,6 +201,8 @@ Node.js는 다음 역할을 한다.
 
 ```bash
 brew upgrade node
+```
+
 ## 9. VS Code 개발 환경
 
 현재 프론트엔드 개발은 **Visual Studio Code(VS Code)**를 기준으로 진행한다.
